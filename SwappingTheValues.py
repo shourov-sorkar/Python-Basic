@@ -6,4 +6,5 @@ a = b
 b = temp 
 
 print('The value of x after swapping: {}'.format(a)) #print the results 
+
 print('The value of y after swapping: {}'.format(b))
