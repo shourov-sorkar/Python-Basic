@@ -7,3 +7,5 @@ print("Array is: ", end=" ")
 for i in range (0, 3):
     print(a[i], end=" ")
 print()
+
+# here I create array with int type variables 

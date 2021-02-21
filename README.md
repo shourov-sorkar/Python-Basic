@@ -11,3 +11,32 @@ If you are not download and install python yet, you can download python from her
 [Download python for Linux](https://www.python.org/downloads/)
 
 ## Installation
+
+
+
+
+
+
+
+
+
+
+# Python Array 
+### Some of the data types are mentioned below which will help in creating an array of different data types.
+
+
+| Type Code    |    C type      | Python Type   | Min Size in Byte |
+|      :---    |     :---:      |       ---:    |             ---: |
+| 'b'          | unsigned char  | int           | 1                |
+| 'B'          | signed char    | int           | 1                |
+| 'u'          | PY_UNICODE     | unicode Character | 2                |
+| 'h'          | signed short   | int           | 2                |
+| 'H'          | unsigned char  | int           | 2                |
+| 'i'          | signed int     | int           | 2                |      
+| 'I'          | unsigned int   | int           | 2                | 
+| 'l'          | signed long    | int           | 4                | 
+| 'L'          | unsigned int   | int           | 4                | 
+| 'q'          | signed long long | int         | 8                | 
+| 'Q'          | unsigned long long | int       | 8                | 
+| 'f'          | float          | float         | 4                | 
+| 'd           | double         | float         | 8                |
